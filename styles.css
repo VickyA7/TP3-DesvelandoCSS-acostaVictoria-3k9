@@ -1,1 +1,26 @@
+/* Estilo del Encabezado h1 */
+h1 {
+    color: #84482D;
+    text-align: center;
+}
 
+/* Estilo de los Párrafos */
+p {
+    font-size: 18px;
+    line-height: 1.5em;
+    color: #1C1D1F;
+}
+
+/* Estilo del Contenedor de Imágenes */
+.contenedor-imagenes {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid #BE6841;
+    padding: 20px;
+}
+
+/* Estilo de las Imágenes */
+.contenedor-imagenes img {
+    width: 150px;
+    margin: 10px;
+}
